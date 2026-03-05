@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx shadcn@latest add @scrollxui/cosmic-background)",
+      "Bash(printf \"y\\\\n\\\\n\")",
+      "Bash(npx shadcn@latest add @scrollxui/cosmic-background --yes)",
+      "Bash(npx shadcn@latest init -d)"
+    ]
+  }
+}

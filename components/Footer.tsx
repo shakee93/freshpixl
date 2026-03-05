@@ -13,7 +13,7 @@ const footerLinks = [
 
 export default function Footer() {
   return (
-    <footer className="bg-black text-white pt-16 pb-10 mt-24">
+    <footer className="bg-black text-white pt-16 pb-10">
       {/* Newsletter */}
       <div className="max-w-[1200px] mx-auto px-6">
         <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between border-b border-white/10 pb-10">
